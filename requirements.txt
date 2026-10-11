@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+Pillow
+requests
+qrcode[pil]
+yt-dlp
+wikipedia
+deep-translator
